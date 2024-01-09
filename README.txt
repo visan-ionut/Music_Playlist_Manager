@@ -1,6 +1,6 @@
-===================
-
-===================
+======================
+Music Playlist Manager
+======================
 
 This project is a music playlist management system. The code is written
 in C and includes functions for initializing, freeing, and manipulating
